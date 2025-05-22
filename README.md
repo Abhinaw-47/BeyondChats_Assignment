@@ -22,8 +22,11 @@ A modern, responsive chat application built with React and Vite that enhances th
 - Smooth transitions and animations
 - Optimized for both desktop and mobile viewing
   
+  
 
 ### AI Integration
+- Built-in Fin Copilot with gemini integration
+- Animation through Framer motion
 - Built-in Fin Copilot with gemini integration
 - Animation through Framer motion
 - Smart popup system for AI assistance
@@ -33,7 +36,14 @@ A modern, responsive chat application built with React and Vite that enhances th
 ### Chat Interface
 - Clean and intuitive chat composer
 - Real-time message updates
+
+
+### Chat Interface
+- Clean and intuitive chat composer
+- Real-time message updates
 - Quick access to AI assistance
+- Message history preservation
+
 - Message history preservation
 
 
@@ -70,11 +80,18 @@ yarn dev
 - React
 - Vite
 - Tailwind CSS (with responsive design)
+- Tailwind CSS (with responsive design)
 - AI Integration APIs
 
 ### Project Structure
 ```
 src/
+├── components/    
+├── App.jsx      
+├── Index.css         
+├── Main.jsx     
+       
+```
 ├── components/    
 ├── App.jsx      
 ├── Index.css         
