@@ -49,7 +49,7 @@ Chat application built with React and Vite that enhances the Admin chat experien
 ### Installation
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/Abhinaw-47/BeyondChats_Assignment
 ```
 
 2. Install dependencies
