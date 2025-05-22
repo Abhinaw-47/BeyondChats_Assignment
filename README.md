@@ -7,7 +7,7 @@ A modern, responsive chat application built with React and Vite that enhances th
 [👉 Click here to visit the deployed app](https://your-deployed-link.com)
 
 ## 🎥 Demo Video  
-[![Watch Demo Video]](https://drive.google.com/file/d/1gcV2lC5P3836UWsFmxCMI3RfYqowehHY/view?usp=drivesdk )
+[Watch Demo Video](https://drive.google.com/file/d/1gcV2lC5P3836UWsFmxCMI3RfYqowehHY/view?usp=drivesdk )
 
 ## 📸 App Preview  
 <img src="./assets/preview.png" alt="App Screenshot" width="800" />
