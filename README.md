@@ -1,10 +1,10 @@
 # BeyondChats
 
-A modern, responsive chat application built with React and Vite that enhances the Admin chat experience with AI-powered features.
+Chat application built with React and Vite that enhances the Admin chat experience with AI-powered features.
 ---
 
 ## 🔗 Live Demo
-[👉 Click here to visit the deployed app](https://your-deployed-link.com)
+[👉 Click here to visit the deployed app](https://beyondchats-git-main-abhinaw-anands-projects.vercel.app/)
 
 ## 🎥 Demo Video  
 [Watch Demo Video](https://drive.google.com/file/d/1gcV2lC5P3836UWsFmxCMI3RfYqowehHY/view?usp=drivesdk )
