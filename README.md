@@ -3,7 +3,7 @@
 Chat application built with React and Vite that enhances the Admin chat experience with AI-powered features.
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Link
 [👉 Click here to visit the deployed app](https://beyondchats-git-main-abhinaw-anands-projects.vercel.app/)
 
 ## 🎥 Demo Video  
